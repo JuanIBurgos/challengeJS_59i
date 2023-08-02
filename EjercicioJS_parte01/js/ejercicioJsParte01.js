@@ -47,23 +47,27 @@
 // 3- Realiza un script que pida cadenas de texto hasta que se pulse “cancelar”. Al
 // salir con “cancelar” deben mostrarse todas las cadenas concatenadas con un guión -.
 // Nota: usar confirm() https://www.w3schools.com/jsref/met_win_confirm.asp
-
-let cadena='';
+// (para consulta)
+// let cadena='';
 // do{
-//     aux=prompt('Ingrese una cadena: ');
-//     cadena=cadena+aux;
-// }while(confirm())
+//      aux=prompt('Ingrese una cadena: ');
+//      cadena=cadena+aux;
+//  }while(confirm())
 // document.write(cadena);
-let cadena01='';
+// POSTA
+// let cadena01='';
 // while(confirm(aux=prompt('Ingrese una cadena:')))
 // {
-//     cadena01=cadena01+aux;
+//    cadena01=cadena01+aux;
 // }
 // document.write(cadena01);
 
+// let cadena01='';
 // do{
-//     aux=prompt('Ingrese una cadena: ');
-//     cadena01=cadena01+aux;
-//     }while(confirm(cadena01)));
+//    aux=prompt('Ingrese una cadena: ');
+//    cadena01=cadena01+aux;
+//    }while(confirm(cadena01));
 
-//     document.write(cadena01);
+//    document.write(cadena01);
+
+
